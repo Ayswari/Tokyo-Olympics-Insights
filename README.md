@@ -16,4 +16,9 @@ medals(gold, silver, bronze) acquired.</p>
 </html>
 <br>
 <img alt="image" width="1000" height="400" src="https://github.com/Ayswari/Tokyo-Olympics-Insights/assets/138013816/b1a06f9a-d1cd-482d-9a59-d9dabdf65973">
-
+<p>As data engineers we are expected to convert this raw data into information that
+can be interpreted by data scientists and business analysts. We need to create a
+power BI report that will help us gain insights about details such as:</p>
+<li>Gender distribution across various Olympics disciplines</li>
+<li>Medals distribution across the countries</li>
+<li>Discipline distribution across the countries</li>
